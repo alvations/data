@@ -11,4 +11,5 @@ Lets try this again...
 | Brown | ✓ | | Completed | The `CONTENT` file is interesting, should make into structured data | 
 | Gazetteers | ✓ | | Completed | |
 | Movie Review | ✓ | | Completed | |
+| Webtext | ✓ | | Completed | |
 | Words | ✓ | | Completed | |
