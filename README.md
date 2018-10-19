@@ -10,14 +10,14 @@ Lets try this again...
 | ABC | ✓ | ✓ | Completed | |
 | Alpino |  |  | | |
 | Biocreative PPI |  |  | | |
-| Brown | ✓ | | Completed | The `CONTENT` file is interesting, should make into structured data |
+| Brown | ✓ | ✓ | Completed | The `CONTENT` file is interesting, should make into structured data |
 | Brown Tei |  |  | | |
 | CESS Catalan |  |  | | |
 | CESS Espanol |  |  | | |
 | Chat 80 |  |  | | |
 | City Database |  |  | | |
-| Gazetteers | ✓ | | Completed | |
+| Gazetteers | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
 | Movie Review | ✓ | | Completed | |
-| Names | ✓ | | Completed | |
-| Webtext | ✓ | | Completed | |
-| Words | ✓ | | Completed | |
+| Names | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
+| Webtext | ✓ | ✓ | Completed | |
+| Words | ✓ | ✓ | Completed | |
