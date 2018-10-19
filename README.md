@@ -1,15 +1,23 @@
 # data
-Lets try this again... 
+Lets try this again...
 
 
 # Status
 
 
-| Corpus | Github | Kaggle | Progress | Comment | 
+| Corpus | Github | Kaggle | Progress | Comment |
 |:- |:-:|:-:|:-|:-|
 | ABC | ✓ | ✓ | Completed | |
-| Brown | ✓ | | Completed | The `CONTENT` file is interesting, should make into structured data | 
+| Alpino |  |  | | |
+| Biocreative PPI |  |  | | |
+| Brown | ✓ | | Completed | The `CONTENT` file is interesting, should make into structured data |
+| Brown Tei |  |  | | |
+| CESS Catalan |  |  | | |
+| CESS Espanol |  |  | | |
+| Chat 80 |  |  | | |
+| City Database |  |  | | |
 | Gazetteers | ✓ | | Completed | |
 | Movie Review | ✓ | | Completed | |
+| Names | ✓ | | Completed | |
 | Webtext | ✓ | | Completed | |
 | Words | ✓ | | Completed | |

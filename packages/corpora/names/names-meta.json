@@ -1,0 +1,9 @@
+{
+    "authors": "Mark Kantrowitz, Bill Ross",
+    "description": "This corpus contains 5001 female names and 2943 male names",
+    "license": "Copyright (C) 1991 Mark Kantrowitz",
+    "readme": "Names Corpus, Version 1.3 (1994-03-29)\nCopyright (C) 1991 Mark Kantrowitz\nAdditions by Bill Ross\n\nThis corpus contains 5001 female names and 2943 male names, sorted\nalphabetically, one per line.\n\nYou may use the lists of names for any purpose, so long as credit is\ngiven in any published work. You may also redistribute the list if you\nprovide the recipients with a copy of this README file. The lists are\nnot in the public domain (I retain the copyright on the lists) but are\nfreely redistributable.  If you have any additions to the lists of\nnames, I would appreciate receiving them.\n\nMark Kantrowitz <mkant+@cs.cmu.edu>\nhttp://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/",
+    "source": "http://www-2.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/nlp/corpora/names/",
+    "title": "Names Corpus",
+    "version": "1.3 (1994-03-29)"
+}
