@@ -1,7 +1,37 @@
 {
-    "authors": "W. N. Francis and H. Kucera (1964)",
-    "description": "A Standard Corpus of Present-Day Edited American English, for use with Digital Computers.",
-    "readme": "BROWN CORPUS\n\nA Standard Corpus of Present-Day Edited American\nEnglish, for use with Digital Computers.\n\nby W. N. Francis and H. Kucera (1964)\nDepartment of Linguistics, Brown University\nProvidence, Rhode Island, USA\n\nRevised 1971, Revised and Amplified 1979\n\nhttp://www.hit.uib.no/icame/brown/bcm.html\n\nDistributed with the permission of the copyright holder,\nredistribution permitted.",
-    "title": "Brown Corpus",
-    "url": "http://www.hit.uib.no/icame/brown/bcm.html"
+    "subcorpora": {
+        "Canada Provinces": {
+            "original_file": "caprovinces.txt"
+        },
+        "Countries": {
+            "license": "GNU Free Documentation License",
+            "license_url": "http://www.gnu.org/copyleft/fdl.html",
+            "original_file": "countries.txt",
+            "source": "http://en.wikipedia.org/wiki/List_of_countries"
+        },
+        "Countries ISO codes": {
+            "original_file": "isocountries.txt",
+            "source": "http://www.guavastudios.com/country-list.htm"
+        },
+        "Mexico States": {
+            "original_file": "mexstates.txt"
+        },
+        "Nationalities": {
+            "original_file": "nationalities.txt",
+            "source": "http://www.guavastudios.com/nationalities-list.htm"
+        },
+        "US Cities": {
+            "license": "GNU Free Documentation License",
+            "license_url": "http://www.gnu.org/copyleft/fdl.html",
+            "original_file": "uscities.txt",
+            "source": "http://en.wikipedia.org/wiki/List_of_cities_in_the_United_States_with_over_100%2C000_people"
+        },
+        "US State Abbreviations": {
+            "original_file": "usstates.txt"
+        },
+        "US States": {
+            "original_file": "usstateabbrev.txt"
+        }
+    },
+    "title": "Geolocation Gazeteers"
 }
