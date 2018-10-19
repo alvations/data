@@ -1,0 +1,12 @@
+{
+    "subcorpora": {
+        "Ogden Basic English": {
+            "author": "C.K. Ogden (1932)",
+            "title": "The ABC of Basic English"
+        },
+        "Unix Words": {
+            "source": "http://en.wikipedia.org/wiki/Words_(Unix)"
+        }
+    },
+    "title": "Word Lists"
+}
