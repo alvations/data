@@ -16,6 +16,7 @@ Lets try this again...
 | CESS Espanol |  |  | | |
 | Chat 80 | ✓ |  | Completed | |
 | City Database | ✓ |  | Completed | Population column is outdated! Repeated from Chat 80 corpus. |
+| Dolch | |  | | |
 | Gazetteers | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
 | Movie Review | ✓ | | Completed | |
 | Names | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
