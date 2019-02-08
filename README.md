@@ -5,7 +5,7 @@ Lets try this again...
 # Status
 
 
-| Corpus | Github | Kaggle | Type | Progress | Comment |
+| Corpus | Type | Github | Kaggle  | Progress | Comment |
 |:- |:-:|:-:|:-:|:-|:-|
 | ABC | tsv | ✓ | ✓ | Completed | |
 | Alpino | xml |  |  | | |
