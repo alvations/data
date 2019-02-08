@@ -6,7 +6,7 @@ Lets try this again...
 
 
 | Corpus | Github | Kaggle | Type | Progress | Comment |
-|:- |:-:|:-:|:-|:-|
+|:- |:-:|:-:|:-:|:-|:-|
 | ABC | tsv | ✓ | ✓ | Completed | |
 | Alpino | xml |  |  | | |
 | Biocreative PPI | |  |  | | |
