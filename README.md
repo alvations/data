@@ -10,6 +10,7 @@ Lets try this again...
 | ABC | tsv | ✓ | ✓ | Completed | |
 | Biocreative PPI | |  |  | | |
 | Brown | tsv | ✓ | ✓ | Completed | The `CONTENT` file is interesting, should make into structured data |
+| CMU Dict |  |  |  | | |
 | Chat 80 | tsv | ✓ |  | Completed | |
 | City Database | tsv | ✓ |  | Completed | Population column is outdated! Repeated from Chat 80 corpus. |
 | Dolch | tsv | ✓ |  | Completed | |
