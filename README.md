@@ -15,7 +15,7 @@ Lets try this again...
 | CESS Catalan |  |  | | |
 | CESS Espanol |  |  | | |
 | Chat 80 |  |  | | |
-| City Database |  |  | | |
+| City Database | ✓ |  | Completed | Population column is outdated! |
 | Gazetteers | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
 | Movie Review | ✓ | | Completed | |
 | Names | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
