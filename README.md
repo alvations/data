@@ -5,20 +5,27 @@ Lets try this again...
 # Status
 
 
-| Corpus | Github | Kaggle | Progress | Comment |
-|:- |:-:|:-:|:-|:-|
-| ABC | ✓ | ✓ | Completed | |
-| Alpino |  |  | | |
-| Biocreative PPI |  |  | | |
-| Brown | ✓ | ✓ | Completed | The `CONTENT` file is interesting, should make into structured data |
-| Brown Tei |  |  | | |
-| CESS Catalan |  |  | | |
-| CESS Espanol |  |  | | |
-| Chat 80 | ✓ |  | Completed | |
-| City Database | ✓ |  | Completed | Population column is outdated! Repeated from Chat 80 corpus. |
-| Dolch | |  | | |
-| Gazetteers | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
-| Movie Review | ✓ | | Completed | |
-| Names | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
-| Webtext | ✓ | ✓ | Completed | |
-| Words | ✓ | ✓ | Completed | |
+| Corpus | Type | Github | Kaggle  | Progress | Comment |
+|:- |:-:|:-:|:-:|:-|:-|
+| ABC | tsv | ✓ | ✓ | Completed | |
+| Biocreative PPI | |  |  | | |
+| Brown | tsv | ✓ | ✓ | Completed | The `CONTENT` file is interesting, should make into structured data |
+| Chat 80 | tsv | ✓ |  | Completed | |
+| City Database | tsv | ✓ |  | Completed | Population column is outdated! Repeated from Chat 80 corpus. |
+| CMU Dict |  |  |  | | |
+| Comtrans Sample |  |  |  | | |
+| Dolch | tsv | ✓ |  | Completed | |
+| Gazetteers | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
+| Movie Review | tsv | ✓ | | Completed | |
+| Names | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
+| Webtext | tsv | ✓ | ✓ | Completed | |
+| Words | tsv | ✓ | ✓ | Completed | |
+
+# Not porting
+
+| Corpus | Type | Github | Kaggle  | Progress | Comment |
+|:- |:-:|:-:|:-:|:-|:-|
+| Alpino | xml |  |  |  | |
+| Brown Tei | xml | |  | | |
+| CESS Catalan | tbf |  |  | | |
+| CESS Espanol |tbf| |  | | |
