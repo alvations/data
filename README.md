@@ -19,6 +19,7 @@ Lets try this again...
 | Machado | tsv | ✓ |  | Completed | |
 | Movie Review | tsv | ✓ | | Completed | |
 | Names | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
+| Product Reviews |  |  |  | | |
 | Switchboard | tsv | ✓ | | Completed | |
 | Twitter Samples | json | ✓ | | Completed | |
 | Webtext | tsv | ✓ | ✓ | Completed | |
@@ -32,3 +33,6 @@ Lets try this again...
 | Brown Tei | xml | |  | | |
 | CESS Catalan | tbf |  |  | | |
 | CESS Espanol |tbf| |  | | |
+| CONLL 2000 | conll | |  | | |
+| CONLL 2002 | conll | |  | | |
+| NPS Chat | xml | |  | | |
