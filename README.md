@@ -15,6 +15,7 @@ Lets try this again...
 | CMU Dict | json | ✓ |  | | |
 | Comtrans Sample | tsv | ✓  |  | Completed | |
 | Dolch | tsv | ✓ |  | Completed | |
+| Europarl Sample | tsv | ✓ |  | Completed | |
 | Gazetteers | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
 | Machado | tsv | ✓ |  | Completed | |
 | Movie Review | tsv | ✓ | | Completed | |
