@@ -41,3 +41,9 @@ Lets try this again...
 | NPS Chat | xml | |  | | |
 | RTE | xml | |  | | |
 | Verbnet | xml | |  | | |
+| Verbnet 3 | xml | |  | | |
+| Unicode Sample | mix | |  | | |
+| WordNet | wn | |  | | See https://github.com/alvations/wordnet|
+| WordNet IC | wn | |  | | See https://github.com/alvations/wordnet |
+| YCOE | xml | |  | | There's nothing inside -_- |
+
