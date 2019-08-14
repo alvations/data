@@ -36,4 +36,8 @@ Lets try this again...
 | CESS Espanol |tbf| |  | | |
 | CONLL 2000 | conll | |  | | |
 | CONLL 2002 | conll | |  | | |
+| Framenet | xml | |  | | |
+| MTE TEIP5 | xml | |  | | |
 | NPS Chat | xml | |  | | |
+| RTE | xml | |  | | |
+| Verbnet | xml | |  | | |
