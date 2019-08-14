@@ -16,6 +16,7 @@ Lets try this again...
 | Comtrans Sample | tsv | ✓  |  | Completed | |
 | Dolch | tsv | ✓ |  | Completed | |
 | Gazetteers | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
+| Machado | tsv | ✓ |  | Completed | |
 | Movie Review | tsv | ✓ | | Completed | |
 | Names | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
 | Webtext | tsv | ✓ | ✓ | Completed | |
