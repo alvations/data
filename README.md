@@ -19,6 +19,8 @@ Lets try this again...
 | Machado | tsv | ✓ |  | Completed | |
 | Movie Review | tsv | ✓ | | Completed | |
 | Names | tsv | ✓ | ~ | Completed | Issues with "Bundling blob files..." on Kaggle |
+| Switchboard | tsv | ✓ | | Completed | |
+| Twitter Samples | json | ✓ | | Completed | |
 | Webtext | tsv | ✓ | ✓ | Completed | |
 | Words | tsv | ✓ | ✓ | Completed | |
 
